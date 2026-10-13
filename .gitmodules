@@ -1,0 +1,3 @@
+[submodule "binome-site"]
+	path = binome-site
+	url = https://github.com/BenRochet/binome-site.git
